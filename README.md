@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Biniyam software developer
 - 👀 I’m interested in making fullstack web application
-- 🌱 I’m currently working on E-commerce website from server side.
-- 💞️ I’m also learning next.js.
+- 🌱 I’m currently working on Enterprise Software.
 - 📫 How to reach me binilulseged@gmail.com
 
 
